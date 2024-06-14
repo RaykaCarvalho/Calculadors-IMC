@@ -21,7 +21,7 @@ Bem-vindo à Calculadora de IMC, a sua ferramenta para entender melhor a sua sa�
 
 1. Visite o repositório: [https://github.com/RaykaCarvalho/Calculadors-IMC](https://github.com/RaykaCarvalho/Calculadors-IMC)
 2. Clone o repositório para seu computador.
-3. Abra o arquivo `index.html` em seu navegador.
+3. Abra o arquivo ```https://raykacarvalho.github.io/Calculadors-IMC/``` em seu navegador.
 
 **Contribuições:**
 
